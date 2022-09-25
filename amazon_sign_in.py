@@ -15,7 +15,7 @@ driver = webdriver.Chrome(path)
 
 actions = ActionChains(driver)
 
-# Wich Website Do I Want To Go To
+# Wich Website Do You Want To Go To
 driver.get("https://www.amazon.com/ref=nav_logo")
 
 
